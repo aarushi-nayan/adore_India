@@ -1,0 +1,40 @@
+.h31, .h32, .h33, .h34 {
+   display: inline-flex; }
+
+   .h31{
+   justify-content: center;
+}
+
+.h32{
+   color: green ;
+}
+.h33{
+  color: orange;
+}
+
+.h34{
+    color: hotpink;
+}
+
+.h35{
+  color: blue ;
+}
+.clpr{
+  textAlign: center;
+}
+
+.b{
+  color: green;
+}
+
+.amplayout{
+  justifyContent: space-around;
+   alignItems: center;
+ }
+
+ .ampscript{
+   marginLeft: auto;
+ }
+.com{
+  textAlignLast: center;
+}
